@@ -95,7 +95,6 @@
     "src:population":"geonames",
     "wof:belongsto":[
         85632611,
-        85681183,
         102191575,
         136253055
     ],
@@ -121,7 +120,7 @@
     "wof:id":1125870675,
     "wof:lastmodified":1636496049,
     "wof:name":"East End",
-    "wof:parent_id":85681183,
+    "wof:parent_id":85632611,
     "wof:placetype":"locality",
     "wof:population":1639,
     "wof:population_rank":3,
